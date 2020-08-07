@@ -1,0 +1,1 @@
+build = "mvn --global-toolchains ./.muse/toolchains.xml"
